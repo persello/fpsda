@@ -1,0 +1,16 @@
+# Ignore all files
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Now we are ignoring UNIX executables which don't have an extension
+
+# Additional files to ignore:
+
+*/bin/*
+*.o
+*.out
