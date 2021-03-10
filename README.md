@@ -51,3 +51,10 @@ Questo clonerà tutti i file della repository in una cartella con lo stesso nome
 ## 1.2. Continuare con gli esercizi
 
 Per continuare, naviga al [README del primo esercizio](esercizi/1/README.md).
+
+# 2. Indice degli esercizi
+
+|          Numero           |                   Descrizione                   |
+| :-----------------------: | ----------------------------------------------- |
+| [1](esercizi/1/README.md) | Test compilatore.                               |
+| [2](esercizi/2/README.md) | Libreria di swap di vario tipo.                 |

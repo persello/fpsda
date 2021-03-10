@@ -125,4 +125,4 @@ git show    # Differenza tra le ultime due istantanee
 git remote  # Gestisci i server
 ```
 
-Controlla gli aggiornamenti di questo file e dell'indice iniziale per altri esercizi.
+Passa all'[esercizio 2](../2/README.md).
