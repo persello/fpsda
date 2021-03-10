@@ -30,6 +30,8 @@ Dal terminale, da dentro una delle cartelle della repo, indipendentemente da qua
 git status
 ```
 
+### Staging dei file
+
 Apparirà un elenco di file modificati. Dovresti avere soltanto il file `test_compilatore.c`.
 
 Ora dobbiamo dire a `git` che la prossima modifica includerà tutti i file elencati. 
@@ -38,4 +40,20 @@ Ora dobbiamo dire a `git` che la prossima modifica includerà tutti i file elenc
 git add .
 ```
 
-È bene fare attenzione ad includere tutta la repo. Se siamo a due cartelle di profondità, specificare `.` come cartella di inclusione includerà solo le modifiche in questa cartella, quindi si dovrà usare `../..
+È bene fare attenzione ad includere tutta la repo. Se siamo a due cartelle di profondità, specificare `.` come cartella di inclusione includerà solo le modifiche in questa cartella, quindi si dovrà usare `../..` per considerare i due livelli superiori. Controllare con un nuovo `git status` che non ci siano "Untracked files" ma solo "Changes to be committed".
+
+Quando si è soddisfatti del numero di file inclusi (spesso se si hanno molti file modificati si opera in più parti correlate tra loro), è ora di effettuare un commit, ovvero di registrare un istantanea dello stato corrente della repository.
+
+Verranno registrati soltanti i file aggiunti in questo passaggio, chiamato "staging".
+
+### Commit
+
+Per registrare un'istantanea, usare il seguente comando:
+
+```zsh
+git commit -m "<MESSAGGIO>"
+```
+
+Un buon messaggio per questo commit può essere "Fixed missing semicolon." (notare il punto, la maiuscola e la lunghezza non eccessiva del messaggio). Non serve raccontare molto, in quanto tutte le modifiche sono facilmente visibili.
+
+Per vedere cos'è cambiato, usare `git diff`.
