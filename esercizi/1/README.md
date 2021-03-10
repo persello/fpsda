@@ -62,7 +62,7 @@ Per vedere cos'è cambiato tra l'ultima e la penultima istantanea, usare `git sh
 
 Per vedere cos'è cambiato tra i file attuali non "fotografati" e l'ultima istantanea, usare `git diff`.
 
-> Nota: Per uscire da questi comandi, premere `q`.
+> **Nota**: Per uscire da questi comandi, premere `q`.
 
 `git diff` non dovrebbe mostrare modifiche.
 
