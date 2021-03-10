@@ -12,12 +12,12 @@ int main()
     printf("a = %d, b = %d.\n", a, b);
 
     if (a == 4 && b == 5) {
-        printf("Test superato.");
+        printf("Test superato.\n");
     } else if (a == 5 && b == 4) {
-        printf("Test fallito.");
+        printf("Test fallito.\n");
     } else if (a == b) {
-        printf("Interessante...");
+        printf("Interessante...\n");
     } else {
-        printf("Cambia mestiere.");
+        printf("Cambia mestiere.\n");
     }
 }
