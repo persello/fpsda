@@ -58,3 +58,19 @@ Per continuare, naviga al [README del primo esercizio](esercizi/1/README.md).
 | :-----------------------: | ----------------------------------------------- |
 | [1](esercizi/1/README.md) | Test compilatore.                               |
 | [2](esercizi/2/README.md) | Libreria di swap di vario tipo.                 |
+| 3                         | Traduzione in funzioni ricorsive.               |
+| 4                         | Vettori e puntatori.                            |
+| 5                         | Manipolazione di stringhe.                      |
+| 6                         | Differenze tra funzioni di I/O, anche su file.  |
+| 7                         | Parametri in ingresso ad un programma.          |
+| 8                         | Ordinamento di vettori.                         |
+| 9                         | Strutture dati.                                 |
+| 10                        | Allocazione della memoria e array dinamici.     |
+| 11                        | Liste (anche doppie).                           |
+| 12                        | Immagini bitmap.                                |
+| 13                        | Alberi ed heap tree.                            |
+| 14                        | Code e pile, code di priorità.                  |
+| 15                        | File audio (no realtime, è di architettura).    |
+| 16                        | Dizionari, tabelle hash e ricerca.              |
+| 17                        | Grafi.                                          |
+| 18                        | Compressione.                                   |
