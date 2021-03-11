@@ -58,7 +58,7 @@ Per continuare, naviga al [README del primo esercizio](esercizi/1/README.md).
 | :-----------------------: | ----------------------------------------------- |
 | [1](esercizi/1/README.md) | Test compilatore.                               |
 | [2](esercizi/2/README.md) | Libreria di swap di vario tipo.                 |
-| 3                         | Traduzione in funzioni ricorsive.               |
+| [3](esercizi/3/README.md) | Traduzione in funzioni ricorsive.               |
 | 4                         | Vettori e puntatori.                            |
 | 5                         | Manipolazione di stringhe.                      |
 | 6                         | Differenze tra funzioni di I/O, anche su file.  |
