@@ -7,10 +7,12 @@
 # Unignore all dirs
 !*/
 
-# Now we are ignoring UNIX executables which don't have an extension
+# Now we are ignoring files that don't have an extension (executables)
 
 # Additional files to ignore:
 
 */bin/*
 *.o
 *.out
+*.exe
+*/build/*
