@@ -65,3 +65,5 @@ Effettua un commit, push e una nuova merge request.
 > **Trucco**: Per non stare a fare `git add .` e `git commit -m "<MESSAGGIO>"` fai direttamente `git commit -a -m "<MESSAGGIO>"`.
 >
 > Il parametro `-a` sta per "all" ed include tutti i file modificati. Non abusarne quando hai decine o centinaia di file modificati.
+
+Passa all'[esercizio 3](../3/README.md).
